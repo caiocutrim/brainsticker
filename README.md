@@ -17,4 +17,4 @@ Want to contribute? [Follow these recommendations](https://github.com/brainstick
 See [Releases](https://github.com/brainsticker/brainsticker/releases) for detailed changelog.
 
 ## License
-[MIT License](https://github.com/brainsticker/brainsticker/blob/master/LICENSE.md) © [Afonso Pacifer](http://brainsticker.com/)
+[MIT License](https://github.com/brainsticker/brainsticker/blob/master/LICENSE.md) © brainsticker
