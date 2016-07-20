@@ -1,0 +1,40 @@
+{
+  "name": "brain-sticker",
+  "version": "0.0.1",
+  "description": "Google Chrome Extension tofor all who want to save relevant articles, separated by section / category and consume these data, directly from your personal / blog site",
+  "author": "Brain Sticker <brainsticker@swdigital.com.br>",
+  "contributors": [
+    {
+      "name": "Denis Manzetti",
+      "email": "denis@swdigital.com.br"
+    },
+    {
+      "name": "Afonso Pacifier",
+      "email": "afonsopolis@gmail.com"
+    },
+    {
+      "name": "Wellington Lima",
+      "email": "wellingtonlima@gmail.com"
+    }
+  ],
+  "scripts": {
+    "test": "vows --spec --isolate",
+    "start": "node index.js"
+  },
+  "main": "lib/brainsticker.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brainsticker/brainsticker"
+  },
+  "bugs": {
+    "url": "https://github.com/brainsticker/brainsticker/issues"
+  },
+  "keywords": [
+    "brainsticker"
+  ],
+  "dependencies": {
+    "vue": "^1.0.26-csp"
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}

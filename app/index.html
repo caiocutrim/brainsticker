@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Brain Sticker - Read, like and share.</title>
+</head>
+<body>
+
+
+
+<div id="app">
+    {{ message }}
+</div>
+
+
+<script src="https://www.gstatic.com/firebasejs/3.2.0/firebase.js"></script>
+<script>
+
+
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBlGaFCzgYZ7EfD2V_P99kYx5YJnEMPEjs",
+    authDomain: "brainsticker-95fb9.firebaseapp.com",
+    databaseURL: "https://brainsticker-95fb9.firebaseio.com",
+    storageBucket: "",
+  };
+  firebase.initializeApp(config);
+
+</script>
+<script src="../node_modules/vue/dist/vue.min.js"></script>
+<script src="../lib/brainsticker.js"></script>
+
+</body>
+</html>

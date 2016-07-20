@@ -1,0 +1,19 @@
+{
+  "name": "Brain Sticker - Read, Like and Share.",
+  "version": "1.0.1",
+  "manifest_version": 2,
+  "description": "Google Chrome Extension tofor all who want to save relevant articles, separated by section / category and consume these data, directly from your personal / blog site",
+  "icons" : {
+
+  },
+
+      "browser_action": {
+        "default_icon": "assets/img/icon-19.png",
+        "default_popup": "app/index.html"
+      },
+    "permissions": [
+        "http://*/*",
+        "https://*/*"
+    ]
+
+}
