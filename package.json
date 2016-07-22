@@ -33,8 +33,18 @@
     "brainsticker"
   ],
   "dependencies": {
-    "vue": "^1.0.26-csp"
+    "firebase": "^3.2.0",
+    "vue": "^1.0.26",
+    "vuefire": "^1.2.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.1.1",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.1",
+    "karma-webpack": "^1.7.0",
+    "phantomjs": "^2.1.7",
+    "webpack": "^1.13.1"
+  },
   "license": "MIT"
 }

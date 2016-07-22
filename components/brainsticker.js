@@ -4,5 +4,4 @@ new Vue({
  	message: 'Just a simple and cute hello world.'
  }
 
-})
-
+});
