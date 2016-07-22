@@ -2,7 +2,7 @@
 
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/brainsticker/brainsticker/blob/master/LICENSE.md)
 
-> A chrome extension for save you Bookmarks.
+> A chrome extension that saves your Bookmarks.
 
 ## Versioning
 
